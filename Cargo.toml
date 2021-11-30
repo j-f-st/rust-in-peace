@@ -1,7 +1,7 @@
 [package]
 name = "rust-in-peace"
 version = "0.1.0"
-authors = ["j-f-st <pretty-sounds@live.jp>"]
+authors = ["j-f-st"]
 edition = "2018"
 
 [lib]
